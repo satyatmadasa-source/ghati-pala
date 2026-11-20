@@ -1,0 +1,17 @@
+{
+  "name": "ಘಟಿ‑ಪಲ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "short_name": "ಘಟಿ‑ಪಲ",
+  "description": "ಘಟಿ‑ಪಲ, ದಿನಮಾನ, ತಿಥಿ ವ್ಯಾಪ್ತಿ, ಗ್ರಹಣ ವೇಧ ಲೆಕ್ಕ",
+  "lang": "kn",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef1f6",
+  "theme_color": "#22306b",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
